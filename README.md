@@ -1,4 +1,4 @@
-Hi! I am Chris Demerski. I am a Software Engineering major at SNHU! I am optimistic to learn as much as I can but I find myself easy distracted by attemping to learn a new cooler thing.
+Hi! I am Chris Demerski. I am an Electronics Engineering major at University of Arkansas Grantham! I am optimistic to learn as much as I can but I find myself easy distracted by attemping to learn a new cooler thing.
 I am eager to learn from others and I am open to receiving advice from others.
 
 <!---
